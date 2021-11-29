@@ -1,5 +1,5 @@
 
-<table><tr><td><img width=61px/></td><td><i>Looking for the source from a PR?  You'll probably find it on https://git.io/stonegray-forks instead of here!</i><td><img width=61px/></td></td></tr><tr></tr></table>
+<table><tr><td><img width=61px/></td><td><i>Looking for the source from a PR?  It's probably on https://git.io/stonegray-forks instead of here!</i><td><img width=61px/></td></td></tr><tr></tr></table>
 
 
 <img width=45px/>
