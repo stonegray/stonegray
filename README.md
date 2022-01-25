@@ -3,7 +3,7 @@
 <table><tr><td><i>Looking for the source from a PR? Head over to https://git.io/stonegray-forks</i></td></tr><tr></tr></table>
 
 
-<img width=120% src="https://gist.github.com/stonegray/9db3861b08ae442591255f1c0374a62d/raw/0f6c03b3009f037e3c33e03f8c0017342ad76e37/test.svg">
+<img width=120% src="https://gist.github.com/stonegray/9db3861b08ae442591255f1c0374a62d/raw/1be4d11172bcb07ab1b93fd012be60f92b281c4f/test.svg">
 
 
 <!--
